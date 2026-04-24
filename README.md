@@ -103,6 +103,7 @@ Private development build. Source code is withheld because the running deploymen
 
 - [BHARGAV RAJ DUTTA (@dev0558)](https://github.com/dev0558)
 - [@techtrail42](https://github.com/techtrail42)
+- [ViktoAb (@AbduArcane)](https://github.com/AbduArcane)
 
 ## License
 
